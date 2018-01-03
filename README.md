@@ -1,3 +1,3 @@
 
-http://Jordyquench.github.io/icon-website/index.html
+https://Jordyquench.github.io/icon-website/index.html
 ------------------------------------------------------------
