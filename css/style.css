@@ -345,6 +345,13 @@ header{
 	margin-left: 10em;
 	margin-top: 2em
 }
+#download p:hover{
+	opacity: .7;
+	transition: all ease .5s;
+	transform: scale(1.05);
+}
+
+
 
 
 /* Download */
